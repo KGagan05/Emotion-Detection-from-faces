@@ -57,6 +57,8 @@ python train.py
 Complete architecture
 
 Results 
+<img width="348" height="621" alt="image" src="https://github.com/user-attachments/assets/8e98f4bd-54d8-4ca1-9468-2758fdd6b27e" />
+
 Expected accuracy:
 
 60% – 70% (basic CNN on FER2013)
